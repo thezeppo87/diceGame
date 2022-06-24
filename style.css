@@ -1,0 +1,47 @@
+body {
+    background-color: green;
+    text-align:center;
+    margin:auto;
+}
+
+.diceGame {
+    align-items: center;
+    margin: auto;
+}
+
+button {
+    background-color:grey;
+    border: none;
+    color: magenta;
+    display: flex;
+    -ms-flex-align: center;
+    justify-content: center;
+    margin: auto;
+    font-size: 32px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    cursor:pointer;
+}
+
+#rollDice {
+    color:yellow;
+    text-align: center;
+    margin-bottom: 60px;
+    font-size: 32px;
+}
+
+#diceImage img{
+    width: 300px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    justify-content: center;
+}
+
+h1 {
+    color:orange;
+    font-size: 32px;
+}
+
+h2 {
+    font-size: 46px;
+    color: blue;
+}
